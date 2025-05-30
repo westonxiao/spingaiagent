@@ -1,4 +1,4 @@
-package com.healthcare;
+package com.aidemo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
